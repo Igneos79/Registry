@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; GSecurity
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ReserveManager]
+"ShippedWithReserves"=dword:00000000
+"PassedPolicy"=dword:00000000
